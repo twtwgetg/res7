@@ -15,7 +15,7 @@
    "icon2":"qinglongbiaoshi",
    "getrewardall":"1048:40,1028:120,1027:200",
    "monsterid":8011,
-   "name":"青龙�"
+   "name":"青龙"
 },
 {
    "id":2,
@@ -34,7 +34,7 @@
    "icon2":"baihubiaoshi",
    "getrewardall":"1049:40,1028:120,1027:200",
    "monsterid":8012,
-   "name":"白虎�"
+   "name":"白虎"
 },
 {
    "id":3,
@@ -53,7 +53,7 @@
    "icon2":"zhuquebiaoshi",
    "getrewardall":"1050:40,1028:120,1027:200",
    "monsterid":8013,
-   "name":"朱雀�"
+   "name":"朱雀"
 },
 {
    "id":4,
@@ -72,5 +72,5 @@
    "icon2":"xuanwubiaoshi",
    "getrewardall":"1051:40,1028:120,1027:200",
    "monsterid":8014,
-   "name":"玄��"
+   "name":"玄"
 }]
